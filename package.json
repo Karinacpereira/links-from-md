@@ -1,0 +1,23 @@
+{
+  "name": "links-extract-karina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "getLinksFromMd()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karinacpereira/links-from-md.git"
+  },
+  "keywords": [
+    "extract",
+    "links"
+  ],
+  "author": "Karina C Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karinacpereira/links-from-md/issues"
+  },
+  "homepage": "https://github.com/Karinacpereira/links-from-md#readme"
+}
